@@ -7,3 +7,6 @@
 [submodule "modules/EscCorx-Backend"]
 	path = modules/EscCorx-Backend
 	url = https://github.com/APRxFE/EscCorx-Backend.git
+[submodule "modules/MysqlCorx-Backend"]
+	path = modules/MysqlCorx-Backend
+	url = https://github.com/APRxFE/MysqlCorx-Backend.git
