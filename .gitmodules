@@ -1,0 +1,6 @@
+[submodule "modules/FireCorx"]
+	path = modules/FireCorx
+	url = https://github.com/APRxFE/FireCorx-Backend.git
+[submodule "modules/FireCorx-Backend"]
+	path = modules/FireCorx-Backend
+	url = https://github.com/APRxFE/FireCorx-Backend.git
