@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{ 
+			"file_exclude_patterns": [
+			".editorconfig", ".gitignore", ".gitmodules",
+			"*.sublime-project"
+			],			
+			"folder_exclude_patterns": [
+				"node_modules"
+			],
+			"path": "/"
+		}
+	],
+	"settings":
+	{
+		"default_encoding": "UTF-8",
+		"tab_size": 1
+	}
+}
